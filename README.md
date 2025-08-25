@@ -33,6 +33,8 @@ O funcionamento se daria de forma simples: qualquer jornalista em início de car
 
   ## 4. Requisitos Funcionais
 
+  [https://docs.google.com/document/d/1kvQxn0QMCyY3zJglXIqT8pbuE4-fXjSHYM7RaQr6AUI/edit?tab=t.0]
+
   ## 5. Modelo Relacionamento-Entidade
 
   ## 6. Casos de uso
